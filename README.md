@@ -3,7 +3,6 @@
 ## About me
 
 - 🔭 I’m currently working on a bunch of stuff
-- 💬 Ask me about anything
 - 🎓 Studying Computer Science at [Vegova Ljubljana](https://www.vegova.si/)
 - 💼 Lead Mobile Developer at [YourFlare](https://yourflare.io/)
 - 💼 Developer at [IPM Smart Community d.o.o.](https://ipm-smartcommunity.si/)

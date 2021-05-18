@@ -6,7 +6,7 @@
 
 ❯ 🎓 Studying Computer Science at [Vegova Ljubljana](https://www.vegova.si/)
 
-❯ 💼 Lead Mobile Developer at [YFLab d.o.o.](https://yourflare.io/)
+❯ 💼 Lead Developer at [YFLab d.o.o.](https://yourflare.io/)
 
 ❯ 💼 Founder of [Orb](https://orb.si/)
 

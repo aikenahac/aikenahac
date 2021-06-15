@@ -2,8 +2,6 @@
 
 ## About me
 
-❯ 🔭 I’m currently working on a bunch of stuff
-
 ❯ 🎓 Studying Computer Science at [Vegova Ljubljana](https://www.vegova.si/)
 
 ❯ 💼 Lead Developer at [YFLab d.o.o.](https://yourflare.io/)

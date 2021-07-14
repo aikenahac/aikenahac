@@ -1,4 +1,4 @@
-g### Hi there 👋
+### Hi there 👋
 
 ## About me
 

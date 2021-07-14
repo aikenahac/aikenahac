@@ -14,4 +14,6 @@
 
 ❯ ⚡ Fun fact: The wood frog can hold its pee for up to eight months.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aikenahac)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=aikenahac&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aikenahac&theme=onedark&layout=compact)

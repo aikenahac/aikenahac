@@ -4,8 +4,6 @@
 
 ❯ 🎓 Studying Computer Science at [Vegova Ljubljana](https://www.vegova.si/)
 
-❯ 💼 Lead Developer at [YFLab d.o.o.](https://yourflare.io/)
-
 ❯ 💼 Founder of [Orb](https://orb.si/)
 
 ❯ 💻 Currently working on a bunch of stuff

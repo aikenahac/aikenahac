@@ -11,3 +11,7 @@
 ❯ 🎤 Hosting a podcast at [VegaHQ](https://www.twitch.tv/vegahqslo)
 
 ❯ ⚡ Fun fact: The wood frog can hold its pee for up to eight months.
+
+[![Aiken's GitHub stats](https://github-readme-stats.vercel.app/api?username=aikenahac&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aikenahac&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

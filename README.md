@@ -4,7 +4,7 @@
 
 ❯ 🎓 Studying Computer Science at [Vegova Ljubljana](https://www.vegova.si/)
 
-❯ 💼 CEO & Co-Founder at [Aerio](https://aerio.tech/)
+❯ 💼 CEO & Founder at [Aerio](https://aerio.tech/)
 
 ❯ 💻 Currently working on a bunch of stuff
 

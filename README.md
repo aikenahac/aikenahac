@@ -12,7 +12,7 @@
 
 ❯ 🎤 Hosting a podcast at [VegaHQ](https://www.twitch.tv/vegahqslo)
 
-❯ 📚 Currently learning building 
+❯ 📚 Currently learning [Rust](https://www.rust-lang.org/) 
 
 ## Contact
 

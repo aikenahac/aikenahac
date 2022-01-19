@@ -4,16 +4,15 @@
 
 ❯ 🎓 Studying Computer Science at [Vegova Ljubljana](https://www.vegova.si/)
 
-❯ 💼 CEO & Founder at [Aerio](https://aerio.tech/)
+❯ 💼 Founder at [Aerio](https://aerio.tech/)
 
-❯ 💻 Currently working on a bunch of stuff
+❯ 💼 Marketing Team Lead & Developer at [SimpliServers](https://simpliservers.com//)
+
+❯ 💻 Currently working on a [C++ game for school built in SDL2](https://github.com/aikenahac/game) and some internal projects.
 
 ❯ 🎤 Hosting a podcast at [VegaHQ](https://www.twitch.tv/vegahqslo)
 
-❯ 📚 Currently learning [Rust](https://www.rust-lang.org/)
-
-❯ 🖥️ Check out [SimpliServers](https://simpliservers.com/) for great server hosting!
-
+❯ 📚 Currently learning building 
 
 ## Contact
 

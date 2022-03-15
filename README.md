@@ -6,7 +6,9 @@
 
 ❯ 💼 Founder at [Aerio](https://aerio.tech/)
 
-❯ 💼 Marketing Team Lead & Developer at [SimpliServers](https://simpliservers.com//)
+❯ 💼 Marketing Team Lead & Developer at [SimpliServers](https://simpliservers.com/)
+
+❯ 💼 Software Developer at [eAsistent eŠola d.o.o.](https://easistent.com/)
 
 ❯ 💻 Currently working on a [C++ game for school built in SDL2](https://github.com/aikenahac/game) and some internal projects.
 

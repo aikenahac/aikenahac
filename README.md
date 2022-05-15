@@ -12,7 +12,7 @@
 
 ❯ 💻 Currently working on a [C++ game for school built in SDL2](https://github.com/aikenahac/game) and some internal projects.
 
-❯ 🎤 Hosting a podcast at [VegaHQ](https://www.twitch.tv/vegahqslo)
+❯ 🎤 Hosting a podcast at [Hello World](https://hell0.world)
 
 ❯ 📚 Currently learning [Rust](https://www.rust-lang.org/) 
 

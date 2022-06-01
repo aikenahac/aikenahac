@@ -10,7 +10,7 @@
 
 ❯ 💼 Software Developer at [eAsistent eŠola d.o.o.](https://easistent.com/)
 
-❯ 💻 Currently working on a [C++ game for school built in SDL2](https://github.com/aikenahac/game) and some internal projects.
+❯ 💻 Currently working on some internal projects.
 
 ❯ 🎤 Hosting a podcast at [Hello World](https://hell0.world)
 

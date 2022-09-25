@@ -12,8 +12,6 @@
 
 ❯ 🎤 Hosting a podcast at [Hello World](https://hell0.world)
 
-❯ 📚 Currently learning [Rust](https://www.rust-lang.org/) 
-
 ## Contact
 
 <p align='center'>

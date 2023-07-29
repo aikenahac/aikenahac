@@ -10,7 +10,7 @@
 
 ❯ 💻 Currently working on some internal projects.
 
-❯ 🎤 Hosting a podcast at [Hello World](https://hell0.world)
+❯ 🎤 Hosting of Izpodcast
 
 ## Contact
 

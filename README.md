@@ -2,13 +2,11 @@
 
 ## About me
 
-❯ 🎓 Studying Computer Science at [Vegova Ljubljana](https://www.vegova.si/)
+❯ 🎓 Studying Computer Science at [UL FRI](https://fri.uni-lj.si/sl)
 
 ❯ 💼 Founder at [Aerio](https://aerio.tech/)
 
 ❯ 💼 Software Developer at [eAsistent eŠola d.o.o.](https://easistent.com/)
-
-❯ 💻 Currently working on some internal projects.
 
 ❯ 🎤 Hosting of Izpodcast
 

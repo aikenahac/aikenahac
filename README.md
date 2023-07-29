@@ -10,10 +10,7 @@
 
 ❯ 🎤 Hosting of Izpodcast
 
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api?username=aikenahac&show_icons=true&theme=onedark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikenahac&hide_progress=true" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aikenahac&hide_progress=true)
 
 ## Contact
 

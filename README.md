@@ -8,7 +8,7 @@
 
 ❯ 💼 Software Developer at [eAsistent eŠola d.o.o.](https://easistent.com/)
 
-❯ 🎤 Hosting of Izpodcast
+❯ 🎤 Host of Izpodcast
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aikenahac&hide_progress=true)
 

@@ -2,13 +2,9 @@
 
 ## About me
 
-❯ 🎓 Studying Computer Science at [UL FRI](https://fri.uni-lj.si/sl)
-
 ❯ 💼 Founder at [Aerio](https://aerio.tech/)
 
 ❯ 💼 Software Developer at [eAsistent eŠola d.o.o.](https://easistent.com/)
-
-❯ 🎤 Host of Izpodcast
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=aikenahac&theme=onedark" />

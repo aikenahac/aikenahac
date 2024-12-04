@@ -2,7 +2,9 @@
 
 ## About me
 
-❯ 💼 Founder at [Aerio](https://aerio.tech/)
+See more at [aiken.si](https://aiken.si)
+
+❯ 💼 Founder of [Aerio](https://aerio.tech/)
 
 ❯ 💼 Software Developer at [eAsistent eŠola d.o.o.](https://easistent.com/)
 
@@ -26,9 +28,6 @@
     <a href="https://www.tiktok.com/@ahacaiken">
         <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="https://aikenahac.com/">
-        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-    </a>
 </p>
 
 ## My favorite tools & languages
@@ -37,10 +36,6 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     &nbsp;&nbsp;
@@ -52,19 +47,11 @@
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Svelte-F73C01?style=for-the-badge&logo=svelte&logoColor=white" />
     &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-    &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
-    &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     &nbsp;&nbsp;

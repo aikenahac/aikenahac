@@ -6,7 +6,7 @@ See more at [aiken.si](https://aiken.si)
 
 ❯ 💼 Founder of [Aerio](https://aerio.tech/)
 
-❯ 💼 Software Developer at [eAsistent eŠola d.o.o.](https://easistent.com/)
+❯ 💼 Software Developer at [Preskok d.o.o.](https://preskok.si/)
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=aikenahac&theme=onedark" />

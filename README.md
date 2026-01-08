@@ -6,11 +6,11 @@ See more at [aiken.si](https://aiken.si)
 
 ❯ 💼 Founder of [Aerio](https://aerio.tech/)
 
-❯ 💼 Software Developer at [Preskok d.o.o.](https://preskok.si/)
+❯ 💼 Senior Software Developer at [Preskok d.o.o.](https://preskok.si/)
 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api?username=aikenahac&theme=onedark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikenahac&hide_progress=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aikenahac&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aikenahac&theme=tokyonight" />
 </div>
 
 ## Contact
